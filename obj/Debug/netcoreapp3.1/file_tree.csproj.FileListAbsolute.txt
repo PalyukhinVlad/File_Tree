@@ -1,0 +1,13 @@
+C:\Users\Влад\source\repos\file_tree\bin\Debug\netcoreapp3.1\file_tree.exe
+C:\Users\Влад\source\repos\file_tree\bin\Debug\netcoreapp3.1\file_tree.deps.json
+C:\Users\Влад\source\repos\file_tree\bin\Debug\netcoreapp3.1\file_tree.runtimeconfig.json
+C:\Users\Влад\source\repos\file_tree\bin\Debug\netcoreapp3.1\file_tree.runtimeconfig.dev.json
+C:\Users\Влад\source\repos\file_tree\bin\Debug\netcoreapp3.1\file_tree.dll
+C:\Users\Влад\source\repos\file_tree\bin\Debug\netcoreapp3.1\file_tree.pdb
+C:\Users\Влад\source\repos\file_tree\obj\Debug\netcoreapp3.1\file_tree.csprojAssemblyReference.cache
+C:\Users\Влад\source\repos\file_tree\obj\Debug\netcoreapp3.1\file_tree.csproj.CoreCompileInputs.cache
+C:\Users\Влад\source\repos\file_tree\obj\Debug\netcoreapp3.1\file_tree.AssemblyInfoInputs.cache
+C:\Users\Влад\source\repos\file_tree\obj\Debug\netcoreapp3.1\file_tree.AssemblyInfo.cs
+C:\Users\Влад\source\repos\file_tree\obj\Debug\netcoreapp3.1\file_tree.dll
+C:\Users\Влад\source\repos\file_tree\obj\Debug\netcoreapp3.1\file_tree.pdb
+C:\Users\Влад\source\repos\file_tree\obj\Debug\netcoreapp3.1\file_tree.genruntimeconfig.cache
